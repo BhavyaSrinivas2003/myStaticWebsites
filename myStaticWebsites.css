@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-o {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-family: Bree Serif;
+}
+
+.bg-container-n {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.NewsPaper-card {
+    background-color: #ffffff;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.main-heading-n {
+    font-size: 25px;
+    margin: 10px;
+    color: #323f4b;
+    padding: 5px;
+    font-family: "Roboto";
+}
+
+.paragraph-n {
+    padding: 5px;
+    margin: 5px;
+    color: #7b8794;
+    font-family: "Roboto";
+}
+
+.button1-n {
+    color: #ffffff;
+    border-color: #d7dfe9;
+    background-color: #323f4b;
+    width: 138px;
+    height: 36px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.code-card {
+    width: 100vw;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 20px;
+    background-color: #f6c56e;
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.head-card {
+    font-family: Bree Serif;
+
+}
+
+.button-card {
+    width: 150px;
+    border-width: 0px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.h1-o {
+    color: #183b56;
+}
+
+.para-o {
+    color: #616e7c;
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.AdvTech-card {
+    background-color: #ffffff;
+    padding: 5px;
+
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.main-heading {
+    font-size: 25px;
+    margin: 5px;
+    color: #5752ab;
+    padding: 5px;
+    font-family: "Bree Serif";
+}
+
+.paragraph {
+    padding: 2px;
+    margin: 5px;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.button1 {
+    text-align: center;
+    margin-right: 5px;
+    padding: 5px;
+    color: #171f46;
+    border-color: #d7dfe9;
+    background-color: #ffffff;
+    width: 138px;
+    height: 36px;
+    border-radius: 5px;
+}
+
+.button2 {
+    text-align: center;
+    margin-left: 5px;
+    padding: 5px;
+    color: #ffffff;
+    border-color: #d7dfe9;
+    background-color: #5752ab;
+    width: 138px;
+    height: 36px;
+    border-radius: 5px;
+}
